@@ -20,7 +20,8 @@ After implementing the algorithms, I created a benchmark file containing functio
 ## Results
 As expected, the FFT implementation absolutely crushed the DFT implementation. The difference was so large, that I had to take the natural log of the runtime for each implementation for every input size.
 
-[!Plot](https://github.com/coffeyyy/Fourier.rs/blob/main/plot.png)
+<img width="600" height="371" alt="image" src="https://github.com/user-attachments/assets/243686aa-a951-4cb4-b94b-d346d6b6b481" />
+
 
 ## References
 GitHub:
