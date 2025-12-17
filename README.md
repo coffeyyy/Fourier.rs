@@ -24,5 +24,5 @@ As expected, the FFT implementation absolutely crushed the DFT implementation. T
 
 
 ## References
-GitHub:
-Cooley-Tukey Algorithm: 
+GitHub: https://github.com/coffeyyy/Fourier.rs/tree/main
+Cooley-Tukey Algorithm: https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm
